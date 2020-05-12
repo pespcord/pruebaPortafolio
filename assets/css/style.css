@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+	padding: 0;
+	border:0;
+	border:0;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+.logo-paty {
+	font-family: 'Pacifico', cursive;
+	font-size: 1.5em;
+}
+.nav-portafolio {
+	background-color: #0e373d;
+}
