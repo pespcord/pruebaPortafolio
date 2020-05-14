@@ -24,7 +24,7 @@ body {
 	background-position:center;
 }
 h1 {
-	font-weight: 300;
+	font-weight: 200;
 	font-size: 3.5rem;
 }
 h2 {
@@ -38,9 +38,21 @@ h3 {
 }
 .linea {
 	width: 7em;
-	border: 2px solid #555555;
+	border: 2px solid #97e7e8;
 }
-
+.txt-especial {
+	font-family: 'Pacifico', cursive;
+}
+.titulo {
+	font-weight: 300;
+	font-size: 3em;
+}
+.img-logo {
+	width: 10em;
+}
+.trabajos {
+	background-color: #268290;
+}
 @media only screen and (max-width:900px) {
   .hero-section {
 		background-position: bottom right;
